@@ -1,3 +1,1 @@
-- 🌱 I’m currently learning more about reverse engineering via IDA
-- ⚡ I’m currently improving in my C++ development, and I develop sometimes in Typescript.
 - 📫 How to reach me: Discord
